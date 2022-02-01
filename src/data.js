@@ -1,0 +1,120 @@
+export const storeData = [
+    {
+        id : 1,
+        title : 'Iphone -Black',
+        img : 'https://th.bing.com/th/id/OIP.9VeZzavJDoJjqwAckXnf9wHaFj?w=207&h=180&c=7&r=0&o=5&pid=1.7',
+        // img : 'https://th.bing.com/th/id/OIP.4fMbt3QcCffFTLNkI0km-gAAAA?w=115&h=180&c=7&r=0&o=5&pid=1.7',
+        price : 20,
+        company : 'Apple',
+        info : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, ea fugiat inventore rem recusandae mollitia reprehenderit, ipsa modi accusamus numquam exercitationem, nesciunt quia impedit dicta! Natus quos placeat et consequuntur!',
+        inCart : false,
+        count : 0,
+        total : 0,
+    },
+
+    {
+        id : 2,
+        title : 'Huawei -P7',
+        img : 'https://th.bing.com/th/id/OIP.3zzDgRfXEMC0HU5nvt2fbgHaHa?w=188&h=188&c=7&r=0&o=5&pid=1.7',
+        // img : 'https://th.bing.com/th/id/OIP.4fMbt3QcCffFTLNkI0km-gAAAA?w=115&h=180&c=7&r=0&o=5&pid=1.7',
+        price : 30,
+        company : 'Huawei',
+        info : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, ea fugiat inventore rem recusandae mollitia reprehenderit, ipsa modi accusamus numquam exercitationem, nesciunt quia impedit dicta! Natus quos placeat et consequuntur!',
+        inCart : false,
+        count : 0,
+        total : 0,
+    },
+
+
+    {
+        id : 3,
+        title : 'Tecno Spark',
+        img : 'https://th.bing.com/th/id/OIP.-sD1XMm18rmJ1zh3YE9XLQHaG9?w=208&h=196&c=7&r=0&o=5&pid=1.7',
+        // img : 'https://th.bing.com/th/id/OIP.4fMbt3QcCffFTLNkI0km-gAAAA?w=115&h=180&c=7&r=0&o=5&pid=1.7',
+        price : 40,
+        company : 'Tecno',
+        info : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, ea fugiat inventore rem recusandae mollitia reprehenderit, ipsa modi accusamus numquam exercitationem, nesciunt quia impedit dicta! Natus quos placeat et consequuntur!',
+        inCart : false,
+        count : 0,
+        total : 0,
+    },
+
+    {
+        id : 4,
+        title : 'Infinix Hot 10',
+        img : 'https://th.bing.com/th/id/OIF.w6EuVvIRZBsnH0Z6qLmvfg?w=124&h=172&c=7&r=0&o=5&pid=1.7',
+        // img : 'https://th.bing.com/th/id/OIP.4fMbt3QcCffFTLNkI0km-gAAAA?w=115&h=180&c=7&r=0&o=5&pid=1.7',
+        price : 30,
+        company : 'Infinix',
+        info : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, ea fugiat inventore rem recusandae mollitia reprehenderit, ipsa modi accusamus numquam exercitationem, nesciunt quia impedit dicta! Natus quos placeat et consequuntur!',
+        inCart : false,
+        count : 0,
+        total : 0,
+    },
+
+    {
+        id : 5,
+        title : 'Xiaomi -Mi 11 pro',
+        img : 'https://th.bing.com/th/id/OIP.4JPAazVO7CGVSnBajqUHmQHaHa?w=160&h=180&c=7&r=0&o=5&pid=1.7',
+        // img : 'https://th.bing.com/th/id/OIP.4fMbt3QcCffFTLNkI0km-gAAAA?w=115&h=180&c=7&r=0&o=5&pid=1.7',
+        price : 30,
+        company : 'Xiaomi',
+        info : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, ea fugiat inventore rem recusandae mollitia reprehenderit, ipsa modi accusamus numquam exercitationem, nesciunt quia impedit dicta! Natus quos placeat et consequuntur!',
+        inCart : false,
+        count : 0,
+        total : 0,
+    },
+
+    {
+        id : 6,
+        title : 'Samsung -S10',
+        img : 'https://th.bing.com/th?q=Samsung+10&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=GH&setlang=en&adlt=moderate&t=1&mw=247',
+        // img : 'https://th.bing.com/th/id/OIP.4fMbt3QcCffFTLNkI0km-gAAAA?w=115&h=180&c=7&r=0&o=5&pid=1.7',
+        price : 30,
+        company : 'Samsung',
+        info : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, ea fugiat inventore rem recusandae mollitia reprehenderit, ipsa modi accusamus numquam exercitationem, nesciunt quia impedit dicta! Natus quos placeat et consequuntur!',
+        inCart : false,
+        count : 0,
+        total : 0,
+    },
+
+    {
+        id : 7,
+        title : 'HTC -Black',
+        img : 'https://th.bing.com/th/id/OIP.ebRuUq1T2JrJrXiOddSqtwHaF2?w=237&h=188&c=7&r=0&o=5&pid=1.7',
+        // img : 'https://th.bing.com/th/id/OIP.4fMbt3QcCffFTLNkI0km-gAAAA?w=115&h=180&c=7&r=0&o=5&pid=1.7',
+        price : 30,
+        company : 'htc',
+        info : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, ea fugiat inventore rem recusandae mollitia reprehenderit, ipsa modi accusamus numquam exercitationem, nesciunt quia impedit dicta! Natus quos placeat et consequuntur!',
+        inCart : false,
+        count : 0,
+        total : 0,
+    },
+
+    {
+        id : 8,
+        title : 'Alcatel Z10',
+        img : 'https://th.bing.com/th/id/OIP.WZVDJnhzY-df-Q6BLsm65QHaGH?w=259&h=214&c=7&r=0&o=5&pid=1.7',
+        // img : 'https://th.bing.com/th/id/OIP.4fMbt3QcCffFTLNkI0km-gAAAA?w=115&h=180&c=7&r=0&o=5&pid=1.7',
+        price : 30,
+        company : 'alcatel',
+        info : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, ea fugiat inventore rem recusandae mollitia reprehenderit, ipsa modi accusamus numquam exercitationem, nesciunt quia impedit dicta! Natus quos placeat et consequuntur!',
+        inCart : false,
+        count : 0,
+        total : 0,
+    }
+
+]
+
+export const detailProduct = {
+        id : 1,
+        title : 'Samsung -Silver',
+        // img : '/images/pic2.jpg',
+        img : 'https://th.bing.com/th/id/OIP.4fMbt3QcCffFTLNkI0km-gAAAA?w=115&h=180&c=7&r=0&o=5&pid=1.7',
+        price : 30,
+        company : 'Samsung',
+        info : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, ea fugiat inventore rem recusandae mollitia reprehenderit, ipsa modi accusamus numquam exercitationem, nesciunt quia impedit dicta! Natus quos placeat et consequuntur!',
+        inCart : false,
+        count : 0,
+        total : 0,   
+}
