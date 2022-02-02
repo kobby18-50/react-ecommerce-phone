@@ -2,7 +2,7 @@ import { Component } from "react";
 import { ProductConsumer } from "../ProdProCon";
 import { ButtonContainer } from "./Button";
 import { Link } from "react-router-dom";
-import { detailProduct } from "../data";
+
 
 
 class Details extends Component {
